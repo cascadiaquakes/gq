@@ -1,0 +1,18 @@
+{
+  "title": "GQ: Merging and retrofitting data and models",
+  "upload_type": "software",
+  "description": "GQ (GridQuery) is a collection of command-line programs for merging multiscale and multiresolution data and models, and retrofitting three-dimensional Earth models by adding shallow geotechnical layering, modifying their topography and bathymetry, and generating or applying statistically defined small-scale heterogeneities. GQ builds on BLEND and the Generic Mapping Tools (GMT).",
+  "creators": [
+    {
+      "name": "Ajala, Rasheed",
+      "affiliation": "Lamont-Doherty Earth Observatory, Columbia University",
+      "orcid": "0000-0001-5650-8362"
+    },
+    {
+      "name": "CRESCENT cyberinfrastructure team",
+      "affiliation": "Cascadia Region Earthquake Science Center (CRESCENT)"
+    }
+  ],
+  "license": "LGPL-3.0-or-later",
+  "version": "1.0.1"
+}

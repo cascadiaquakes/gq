@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# Copyright (c) 2024-2026 by the CRESCENT CVM Team (https://cascadiaquakes.org/cvm/)
+# Copyright (c) 2024-2026 by the CRESCENT cyberinfrastructure team (https://cascadiaquakes.org/)
 # See LICENSE for copying and redistribution conditions.
 #
 # This program is free software; you can redistribute it and/or modify

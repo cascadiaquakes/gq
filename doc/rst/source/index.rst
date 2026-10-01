@@ -6,7 +6,7 @@ and multiresolution data and models, and retrofitting three-dimensional Earth
 models by adding shallow geotechnical layering, modifying their topography or 
 bathymetry, and generating or applying statistically defined small-scale 
 heterogeneities. GQ currently contains eight modules built on the
-`BLEND <https://github.com/Bioye97/blend>`_ and
+`BLEND <https://github.com/cascadiaquakes/blend>`_ and
 `GMT <https://github.com/GenericMappingTools/gmt>`_ APIs.
 
 .. toctree::

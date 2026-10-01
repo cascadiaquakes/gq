@@ -63,7 +63,7 @@ outer product of the window taper functions in each dimension.
 Polygon supports must be xy-monotone after mapping to the output grid. The
 merge and SSH modules provide strict-envelope and best piecewise-envelope
 conversion modes. Their write modifier stores the converted polygon beside
-the original for inspection. See `BLEND <https://github.com/Bioye97/blend>`_ 
+the original for inspection. See `BLEND <https://github.com/cascadiaquakes/blend>`_ 
 for more  information.
 
 Aggregate merging

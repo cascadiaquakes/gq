@@ -1,5 +1,5 @@
 #
-# Copyright (c) 2024-2026 by the CRESCENT CVM Team (https://cascadiaquakes.org/cvm/)
+# Copyright (c) 2024-2026 by the CRESCENT cyberinfrastructure team (https://cascadiaquakes.org/)
 # See LICENSE for copying and redistribution conditions.
 #
 # This program is free software; you can redistribute it and/or modify
@@ -38,7 +38,7 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 30
     env:
-      GQ_DOC_VERSIONS: '[["devel","https://bioye97.github.io/gq/"],["1.0.0","https://bioye97.github.io/gq/1.0.0/"]]'
+      GQ_DOC_VERSIONS: '[["devel","https://ajalalab.com/gq/"],["1.0.0","https://ajalalab.com/gq/1.0.0/"]]'
 
     steps:
       - name: Checkout GQ development source
@@ -49,7 +49,7 @@ jobs:
       - name: Checkout GQ 1.0.0 source
         uses: actions/checkout@v6
         with:
-          repository: Bioye97/gq
+          repository: cascadiaquakes/gq
           ref: v1.0.0
           path: _versions/gq-1.0.0
 
@@ -77,7 +77,7 @@ jobs:
       - name: Checkout BLEND 2.0.0
         uses: actions/checkout@v6
         with:
-          repository: Bioye97/blend
+          repository: cascadiaquakes/blend
           ref: v2.0.0
           path: _deps/blend-source
 

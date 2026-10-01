@@ -80,7 +80,7 @@ while ``-MB`` uses the best piecewise strict envelope. Appending ``+w`` writes
 the converted polygon with a ``_monotone`` suffix. ``-A`` combines positive
 weights where primary supports that share the same secondary source overlap. 
 Non-overlapping supports may use different secondaries with this option. 
-See `BLEND <https://github.com/Bioye97/blend>`_ for more  information.
+See `BLEND <https://github.com/cascadiaquakes/blend>`_ for more  information.
 
 Select NetCDF fields by appending ``?`` and a comma-separated list, such as
 ``model.nc?vp,vs``. Selected fields must share the same horizontal

@@ -1,9 +1,9 @@
 # GridQuery
 
-[![CI](https://github.com/Bioye97/gq/actions/workflows/ci.yml/badge.svg)](https://github.com/Bioye97/gq/actions/workflows/ci.yml)
-[![Documentation](https://github.com/Bioye97/gq/actions/workflows/pages.yml/badge.svg)](https://bioye97.github.io/gq/)
-[![GitHub release](https://img.shields.io/github/v/release/Bioye97/gq)](https://github.com/Bioye97/gq/releases/latest)
-[![License](https://img.shields.io/github/license/Bioye97/gq)](https://github.com/Bioye97/gq/blob/main/LICENSE)
+[![CI](https://github.com/cascadiaquakes/gq/actions/workflows/ci.yml/badge.svg)](https://github.com/cascadiaquakes/gq/actions/workflows/ci.yml)
+[![Documentation](https://github.com/cascadiaquakes/gq/actions/workflows/pages.yml/badge.svg)](https://ajalalab.com/gq/)
+[![GitHub release](https://img.shields.io/github/v/release/cascadiaquakes/gq)](https://github.com/cascadiaquakes/gq/releases/latest)
+[![License](https://img.shields.io/github/license/cascadiaquakes/gq)](https://github.com/cascadiaquakes/gq/blob/main/LICENSE)
 
 ## What is GQ?
 
@@ -14,7 +14,7 @@ bathymetry, and generating or applying statistically defined small-scale
 heterogeneities. Originally developed to support downstream geoscience
 research operations within the [CRESCENT CVM Team](https://cascadiaquakes.org/cvm/),
 GQ's modules apply to projects across the broader STEM community. GQ leverages
-the computational geometry functionality of [BLEND](https://github.com/Bioye97/blend) and 
+the computational geometry functionality of [BLEND](https://github.com/cascadiaquakes/blend) and 
 the mapping machinery of [GMT](https://github.com/GenericMappingTools/gmt) to 
 perform its processing tasks. The driving goal of GQ is to provide a flexible and 
 accessible platform to trivialize model and data processing tasks usually performed
@@ -39,7 +39,7 @@ GQ currently provides eight modules:
 
 Building GQ requires:
 
-* [BLEND 2.0 or newer](https://github.com/Bioye97/blend)
+* [BLEND 2.0 or newer](https://github.com/cascadiaquakes/blend)
 * [GMT 6.5 or newer](https://github.com/GenericMappingTools/gmt)
 * [GDAL development package](https://gdal.org/) (normally installed with GMT)
 * [netCDF-C 4.1.3 or newer](https://docs.unidata.ucar.edu/netcdf-c/current/),
@@ -57,7 +57,7 @@ the `curl` or GDAL command-line utilities.
 Clone the GQ source repository and move into the source directory:
 
 ```sh
-git clone https://github.com/Bioye97/gq.git
+git clone https://github.com/cascadiaquakes/gq.git
 cd gq
 ```
 

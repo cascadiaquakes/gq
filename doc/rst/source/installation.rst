@@ -6,7 +6,7 @@ Dependencies
 
 To build GQ, install:
 
-* `BLEND 2.0 or newer <https://github.com/Bioye97/blend>`_
+* `BLEND 2.0 or newer <https://github.com/cascadiaquakes/blend>`_
 * `GMT 6.5 or newer <https://github.com/GenericMappingTools/gmt>`_
 * `GDAL development package <https://gdal.org/>`_ (normally installed with
   GMT)
@@ -40,7 +40,7 @@ Clone the GQ source repository and move into the source directory:
 
 .. code-block:: sh
 
-   git clone https://github.com/Bioye97/gq.git
+   git clone https://github.com/cascadiaquakes/gq.git
    cd gq
 
 Configuration

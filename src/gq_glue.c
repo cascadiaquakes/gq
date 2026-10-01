@@ -1,6 +1,6 @@
 /*--------------------------------------------------------------------
  *
- * Copyright (c) 2024-2026 by the CRESCENT CVM Team (https://cascadiaquakes.org/cvm/)
+ * Copyright (c) 2024-2026 by the CRESCENT cyberinfrastructure team (https://cascadiaquakes.org/)
  * See LICENSE for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -59,7 +59,7 @@ EXTERN_MSC const char *gq_module_version (void) {
 
 /* Pretty print all shared module names and their purposes for gmt --help */
 EXTERN_MSC int gq_module_show_all (void *API) {
-	return (GMT_Show_ModuleInfo (API, modules, "The CRESCENT CVM Team supplements to the Generic Mapping Tools", GMT_MODULE_HELP));
+	return (GMT_Show_ModuleInfo (API, modules, "The CRESCENT cyberinfrastructure team supplements to the Generic Mapping Tools", GMT_MODULE_HELP));
 }
 
 /* Produce single list on stdout of all shared module names for gmt --show-modules */

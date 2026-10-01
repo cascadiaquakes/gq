@@ -1,5 +1,5 @@
 #
-# Copyright (c) 2024-2026 by the CRESCENT CVM Team (https://cascadiaquakes.org/cvm/)
+# Copyright (c) 2024-2026 by the CRESCENT cyberinfrastructure team (https://cascadiaquakes.org/)
 # See LICENSE for copying and redistribution conditions.
 #
 # This program is free software; you can redistribute it and/or modify
@@ -33,7 +33,7 @@ set (GQ_PACKAGE_DESCRIPTION_SUMMARY
 
 set (GQ_PACKAGE_VERSION_MAJOR 1)
 set (GQ_PACKAGE_VERSION_MINOR 0)
-set (GQ_PACKAGE_VERSION_PATCH 0)
+set (GQ_PACKAGE_VERSION_PATCH 1)
 set (GQ_PACKAGE_VERSION
 	"${GQ_PACKAGE_VERSION_MAJOR}.${GQ_PACKAGE_VERSION_MINOR}.${GQ_PACKAGE_VERSION_PATCH}")
 

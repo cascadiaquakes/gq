@@ -1,5 +1,5 @@
 #
-# Copyright (c) 2024-2026 by the CRESCENT CVM Team (https://cascadiaquakes.org/cvm/)
+# Copyright (c) 2024-2026 by the CRESCENT cyberinfrastructure team (https://cascadiaquakes.org/)
 # See LICENSE for copying and redistribution conditions.
 #
 # This program is free software; you can redistribute it and/or modify
@@ -25,7 +25,7 @@ from docutils.parsers.rst import Directive, directives
 
 project = "GQ"
 author = "Rasheed Ajala"
-copyright = "2026, The CRESCENT CVM Team"
+copyright = "2026, The CRESCENT cyberinfrastructure team"
 version = os.environ.get("GQ_DOC_VERSION", "1.0.0")
 release = version
 
@@ -43,7 +43,7 @@ html_js_files = ["gq.js"]
 html_show_sourcelink = False
 html_show_sphinx = True
 
-github_repository = "https://github.com/Bioye97/gq"
+github_repository = "https://github.com/cascadiaquakes/gq"
 github_version = os.environ.get("GQ_DOC_GITHUB_VERSION", "devel")
 
 
@@ -103,7 +103,7 @@ latex_elements = {
 \thispagestyle{empty}
 \vspace*{\fill}
 \begin{center}
-Copyright (c) 2024-2026 by the CRESCENT CVM Team
+Copyright (c) 2024-2026 by the CRESCENT cyberinfrastructure team
 (\url{https://cascadiaquakes.org/cvm/})
 \end{center}
 \vspace*{\fill}

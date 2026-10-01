@@ -8,7 +8,7 @@ Clone the GQ source repository and move into the source directory:
 
 .. code-block:: bash
 
-   git clone https://github.com/Bioye97/gq.git
+   git clone https://github.com/cascadiaquakes/gq.git
    cd gq
 
 Create a local configuration file by copying

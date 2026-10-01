@@ -1,6 +1,6 @@
 /*--------------------------------------------------------------------
  *
- *	Copyright (c) 2024-2026 by the CRESCENT CVM Team (https://cascadiaquakes.org/cvm/)
+ *	Copyright (c) 2024-2026 by the CRESCENT cyberinfrastructure team (https://cascadiaquakes.org/)
  *	See LICENSE for copying and redistribution conditions.
  *
  *	This program is free software; you can redistribute it and/or modify
@@ -34,7 +34,7 @@
 #define THIS_MODULE_CLASSIC_NAME "merge2d"
 #define THIS_MODULE_MODERN_NAME "merge2d"
 #define THIS_MODULE_LIB "gq"
-#define THIS_MODULE_LIB_PURPOSE "The CRESCENT-CVM supplements to the Generic Mapping Tools"
+#define THIS_MODULE_LIB_PURPOSE "The CRESCENT cyberinfrastructure team supplements to the Generic Mapping Tools"
 #define THIS_MODULE_PURPOSE "Tile or smoothly merge two-dimensional multiparameter NetCDF grids"
 #define THIS_MODULE_KEYS "<G{+,GG}"
 #define THIS_MODULE_NEEDS "R"
