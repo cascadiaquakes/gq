@@ -7,9 +7,19 @@ license: LGPL-3.0-or-later
 repository-code: "https://github.com/cascadiaquakes/gq"
 authors:
   - family-names: Ajala
-    given-names: Rasheed
+    given-names: "Rasheed"
     affiliation: "Lamont-Doherty Earth Observatory, Columbia University"
     orcid: "https://orcid.org/0000-0001-5650-8362"
-  - name: "CRESCENT cyberinfrastructure team"
-    website: "https://cascadiaquakes.org/"
+  - family-names: Marfo
+    given-names: "William"
+    affiliation: "University of California, Davis"
+    orcid: "https://orcid.org/0009-0003-0631-2750"
+  - family-names: Thomas
+    given-names: "Amanda M."
+    affiliation: "University of California, Davis"
+    orcid: "https://orcid.org/0000-0001-6997-3140"
+  - family-names: Bachelot
+    given-names: "Loïc"
+    affiliation: "University of Oregon"
+    orcid: "https://orcid.org/0000-0003-0711-8581"
 abstract: "GQ (GridQuery) is a collection of command-line programs for merging multiscale and multiresolution data and models, and retrofitting three-dimensional Earth models by adding shallow geotechnical layering, modifying their topography and bathymetry, and generating or applying statistically defined small-scale heterogeneities. GQ builds on BLEND and the Generic Mapping Tools (GMT)."

@@ -9,8 +9,19 @@
       "orcid": "0000-0001-5650-8362"
     },
     {
-      "name": "CRESCENT cyberinfrastructure team",
-      "affiliation": "Cascadia Region Earthquake Science Center (CRESCENT)"
+      "name": "Marfo, William",
+      "affiliation": "University of California, Davis",
+      "orcid": "0009-0003-0631-2750"
+    },
+    {
+      "name": "Thomas, Amanda M.",
+      "affiliation": "University of California, Davis",
+      "orcid": "0000-0001-6997-3140"
+    },
+    {
+      "name": "Bachelot, Loïc",
+      "affiliation": "University of Oregon",
+      "orcid": "0000-0003-0711-8581"
     }
   ],
   "license": "LGPL-3.0-or-later",
