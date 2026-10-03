@@ -1,7 +1,7 @@
 # GridQuery
 
 [![CI](https://github.com/cascadiaquakes/gq/actions/workflows/ci.yml/badge.svg)](https://github.com/cascadiaquakes/gq/actions/workflows/ci.yml)
-[![Documentation](https://github.com/cascadiaquakes/gq/actions/workflows/pages.yml/badge.svg)](https://ajalalab.com/gq/)
+[![Documentation](https://github.com/cascadiaquakes/gq/actions/workflows/pages.yml/badge.svg)](https://cascadiaquakes.github.io/gq/)
 [![GitHub release](https://img.shields.io/github/v/release/cascadiaquakes/gq)](https://github.com/cascadiaquakes/gq/releases/latest)
 [![License](https://img.shields.io/github/license/cascadiaquakes/gq)](https://github.com/cascadiaquakes/gq/blob/main/LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23091426.svg)](https://doi.org/10.5281/zenodo.23091426)
@@ -21,7 +21,7 @@ perform its processing tasks. The driving goal of GQ is to provide a flexible an
 accessible platform to trivialize model and data processing tasks usually performed
 before their application (e.g., physics-based simulations).
 
-Full documentation: [https://ajalalab.com/gq/](https://ajalalab.com/gq/)
+Full documentation: [https://cascadiaquakes.github.io/gq/](https://cascadiaquakes.github.io/gq/)
 
 GQ currently provides eight modules:
 

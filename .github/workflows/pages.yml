@@ -38,7 +38,7 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 30
     env:
-      GQ_DOC_VERSIONS: '[["devel","https://ajalalab.com/gq/"],["1.0.0","https://ajalalab.com/gq/1.0.0/"]]'
+      GQ_DOC_VERSIONS: '[["devel","https://cascadiaquakes.github.io/gq/"],["1.0.0","https://cascadiaquakes.github.io/gq/1.0.0/"]]'
 
     steps:
       - name: Checkout GQ development source
