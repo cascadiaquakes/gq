@@ -142,5 +142,17 @@ If you use GQ in your work, please cite the following references:
    In `Seismological Society of America Annual Meeting`, Baltimore, Maryland,
    USA, vol. 96, p. 1364.
 
-## Acknowledgment
-The development of GQ was funded by [CRESCENT](https://cascadiaquakes.org) and [NSF](https://www.nsf.gov).
+## Acknowledgments
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/cascadiaquakes/.github/main/assets/crescent-circle.png" alt="CRESCENT Logo" width="150" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/cascadiaquakes/.github/main/assets/nsf-logo.png" alt="NSF Logo" width="450" />
+    </td>
+  </tr>
+</table>
+
+The development of GQ was funded by [CRESCENT](https://cascadiaquakes.org) and [NSF](https://www.nsf.gov) (Cooperative Agreement EAR-2225286).
